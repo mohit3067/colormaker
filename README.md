@@ -1,6 +1,6 @@
 # colormaker
 
-A new Flutter project.
+it generates a different random color and color pallete with 7 colours.by generating this color we can also add the hex values and generate the color. after generating the colors and palletes we can also save this color into the app, so that we can easily access the favirote colors whenever we want it.
 
 ## Getting Started
 
